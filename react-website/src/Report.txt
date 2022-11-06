@@ -1,0 +1,4 @@
+I started out by dividing the layout into 3 different main parts: the top bar, the header, and finally the blocks.
+Some issues that I ran into were that I tried to add the button right into the header after the text, but I realized that in order to add the counter function, it would be easier to create the button as a seperate component. 
+Another issue that I was having was that the console would print out the counter twice, but I remembered from a previous project that if I put it in an empty useEffect hook, it will only print once and that fixed it.
+Overall, the project was pretty fun!
